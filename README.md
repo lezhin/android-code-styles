@@ -1,4 +1,4 @@
-Java Code Styles
+Android Code Styles
 ================
 
 IntelliJ IDEA code style settings for Androidhuman's Android projects.
