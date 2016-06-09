@@ -1,7 +1,7 @@
 #!/bin/bash
-# Installs Androidhuman's IntelliJ configs into your user configs.
+# Installs Lezhin's IntelliJ configs into your user configs.
 
-echo "Installing Androidhuman IntelliJ configs..."
+echo "Installing Lezhin IntelliJ configs..."
 
 CONFIGS="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )/configs"
 
@@ -26,4 +26,4 @@ done
 
 echo "Done."
 echo ""
-echo "Restart IntelliJ and/or AndroidStudio, go to preferences, and apply 'Androidhuman'."
+echo "Restart IntelliJ and/or AndroidStudio, go to preferences, and apply 'Lezhin'."

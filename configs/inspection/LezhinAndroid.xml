@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <inspections version="1.0" is_locked="false">
-  <option name="myName" value="Androidhuman" />
+  <option name="myName" value="LezhinAndroid" />
   <inspection_tool class="AndroidKLintStopShip" enabled="true" level="ERROR" enabled_by_default="true" />
   <inspection_tool class="AndroidLintStopShip" enabled="true" level="ERROR" enabled_by_default="true" />
   <inspection_tool class="FallthruInSwitchStatement" enabled="true" level="ERROR" enabled_by_default="true" />

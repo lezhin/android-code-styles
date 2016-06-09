@@ -1,7 +1,7 @@
 Android Code Styles
 ================
 
-IntelliJ IDEA code style settings for Androidhuman's Android projects.
+IntelliJ IDEA code style settings for Lezhin's Android projects.
 
 
 Installation
